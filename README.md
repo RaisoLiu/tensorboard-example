@@ -5,3 +5,7 @@
 
 ![](https://github.com/raiso777/tensorboard-example/raw/main/result-histograms-example.png)
 ![](https://github.com/raiso777/tensorboard-example/raw/main/result-scalar-example.png)
+
+
+## Install
+```
